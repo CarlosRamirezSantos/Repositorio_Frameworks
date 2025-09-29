@@ -1,0 +1,89 @@
+2025-09-29 13:13:01,184 - ERROR - Error: invalid literal for int() with base 10: 'h'
+2025-09-29 13:16:46,648 - WARNING - La opciï¿½n seleccionada 8 no existe.
+2025-09-29 16:53:50,922 - ERROR - Error: invalid literal for int() with base 10: 'j'
+2025-09-29 16:54:18,758 - INFO - Se ha creado con ï¿½xito al heroe Mickey Mouse Marshall.
+2025-09-29 16:54:21,542 - INFO - Se ha creado con ï¿½xito al villano Mickey Mouse Kent.
+2025-09-29 16:54:24,948 - INFO - El heroe Mickey Mouse con un poder de 78.4 se ha enfrentado al villano Mickey Mouse con un poder de 61.25.cuya pelea estï¿½ equilibrada. 
+2025-09-29 16:55:51,491 - INFO - Se ha creado con ï¿½xito al heroe Tweety Flintstone.
+2025-09-29 16:55:52,208 - INFO - Se ha creado con ï¿½xito al villano Bart Simpson Smith.
+2025-09-29 16:55:54,099 - INFO - El heroe Tweety con un poder de 56.8 se ha enfrentado al villano Bart Simpson con un poder de 26.25en una pelea que estï¿½ desiquilibrada.
+2025-09-29 16:56:57,424 - INFO - Se ha creado con ï¿½xito al heroe Popeye Simpson.
+2025-09-29 16:56:58,074 - INFO - Se ha creado con ï¿½xito al villano Mickey Mouse White.
+2025-09-29 16:56:59,429 - INFO - El heroe Popeye Simpson con un poder de 71.8 se ha enfrentado al villano Mickey Mouse White con un poder de 72.5en una pelea que estï¿½ equilibrada.
+2025-09-29 16:57:32,207 - INFO - Se ha creado con ï¿½xito al heroe Bart Simpson Jones.
+2025-09-29 16:57:32,959 - INFO - Se ha creado con ï¿½xito al villano Donald Duck Kent.
+2025-09-29 16:57:33,676 - INFO - El heroe Bart Simpson Jones con un poder de 57 se ha enfrentado al villano Donald Duck Kent con un poder de 26.5 en una pelea que estï¿½ desiquilibrada.
+2025-09-29 16:59:09,680 - INFO - Se ha creado con ï¿½xito al heroe Mickey Mouse Gray.
+2025-09-29 16:59:11,969 - INFO - Se ha creado con ï¿½xito al villano Donald Duck Smith.
+2025-09-29 16:59:14,598 - INFO - El heroe Mickey Mouse Gray con un poder de 54 se ha enfrentado al villano Donald Duck Smith con un poder de 39.25 en una pelea que estï¿½ equilibrada.
+2025-09-29 17:01:49,150 - WARNING - La lista esta vacï¿½a
+2025-09-29 17:01:49,150 - INFO - Con Popeye no hay nadie
+2025-09-29 17:01:49,150 - WARNING - La lista esta vacï¿½a
+2025-09-29 17:01:49,151 - INFO - Con Popeye no hay nadie
+2025-09-29 17:02:34,342 - INFO - Se ha creado con ï¿½xito al heroe Donald Duck Gray.
+2025-09-29 17:02:52,587 - WARNING - La lista esta vacï¿½a
+2025-09-29 17:02:52,588 - INFO - Con Donald no hay nadie
+2025-09-29 17:02:52,588 - WARNING - La lista esta vacï¿½a
+2025-09-29 17:02:52,588 - INFO - Con Donald no hay nadie
+2025-09-29 17:03:20,049 - INFO - Se ha creado con ï¿½xito al heroe Tom Simpson.
+2025-09-29 17:03:41,737 - WARNING - La lista esta vacï¿½a
+2025-09-29 17:03:41,737 - INFO - Con Tom no hay nadie
+2025-09-29 17:03:41,737 - INFO - Con Tom no hay nadie
+2025-09-29 17:04:16,556 - INFO - Se ha creado con ï¿½xito al heroe Bugs Bunny Kent.
+2025-09-29 17:04:31,069 - WARNING - La lista esta vacï¿½a
+2025-09-29 17:04:31,070 - INFO - Con Bugs Bunny no hay nadie
+2025-09-29 17:04:31,070 - INFO - Con Bugs Bunny no hay nadie
+2025-09-29 17:07:25,084 - INFO - Se ha creado con ï¿½xito al heroe Tweety Smith.
+2025-09-29 17:07:28,083 - INFO - Se ha creado con ï¿½xito al heroe Bart Simpson Smith.
+2025-09-29 17:07:47,236 - INFO - Con bart simpson no hay nadie
+2025-09-29 17:07:47,236 - WARNING - La lista esta vacï¿½a
+2025-09-29 17:07:47,236 - INFO - Con bart simpson no hay nadie
+2025-09-29 17:08:08,770 - INFO - Con Bart Simpson no hay nadie
+2025-09-29 17:08:08,770 - WARNING - La lista esta vacï¿½a
+2025-09-29 17:08:08,770 - INFO - Con Bart Simpson no hay nadie
+2025-09-29 17:12:50,628 - INFO - Se ha creado con ï¿½xito al heroe Mickey Mouse Marshall.
+2025-09-29 17:12:51,996 - INFO - Se ha creado con ï¿½xito al villano Tweety Smith.
+2025-09-29 17:13:07,807 - INFO - Con mickey no hay nadie
+2025-09-29 17:13:07,807 - INFO - Con mickey no hay nadie
+2025-09-29 17:13:36,509 - INFO - Se ha creado con ï¿½xito al heroe Homer Simpson Jones.
+2025-09-29 17:13:53,348 - INFO - Con Homer Simpson no hay nadie
+2025-09-29 17:13:53,349 - WARNING - La lista esta vacï¿½a
+2025-09-29 17:13:53,349 - INFO - Con Homer Simpson no hay nadie
+2025-09-29 17:28:53,220 - INFO - Se ha creado con ï¿½xito al heroe Bart Simpson Black.
+2025-09-29 17:28:54,204 - INFO - Se ha creado con ï¿½xito al villano Scooby Doo Black.
+2025-09-29 17:29:15,025 - INFO - Con Scooby Doo no hay nadie
+2025-09-29 17:29:15,026 - INFO - Con Scooby Doo no hay nadie
+2025-09-29 17:36:28,461 - INFO - Se ha creado con ï¿½xito al heroe Tom Gray.
+2025-09-29 17:36:41,392 - INFO - Con Tom no hay nadie
+2025-09-29 17:36:41,393 - WARNING - La lista esta vacï¿½a
+2025-09-29 17:36:41,393 - INFO - Con Tom no hay nadie
+2025-09-29 17:40:48,286 - INFO - Se ha creado con ï¿½xito al heroe Scooby Doo Simpson.
+2025-09-29 17:40:50,818 - INFO - Se ha creado con ï¿½xito al heroe Mickey Mouse Gray.
+2025-09-29 17:40:52,710 - INFO - Se ha creado con ï¿½xito al heroe Tom Flintstone.
+2025-09-29 17:41:05,192 - INFO - Con Tom no hay nadie
+2025-09-29 17:41:05,193 - WARNING - La lista esta vacï¿½a
+2025-09-29 17:41:05,193 - INFO - Con Tom no hay nadie
+2025-09-29 17:41:14,939 - INFO - Los personajes encontrados son: [<clases.heroe.Heroe object at 0x000001C52313CCD0>] 
+2025-09-29 17:41:14,939 - WARNING - La lista esta vacï¿½a
+2025-09-29 17:41:14,940 - INFO - Con Tom no hay nadie
+2025-09-29 17:41:42,263 - INFO - Se ha creado con ï¿½xito al heroe Tweety Marshall.
+2025-09-29 17:41:53,515 - INFO - Los personajes encontrados son: [<clases.heroe.Heroe object at 0x000001C522E78FC0>] 
+2025-09-29 17:41:53,515 - WARNING - La lista esta vacï¿½a
+2025-09-29 17:41:53,515 - INFO - Con Tweety no hay nadie
+2025-09-29 17:44:57,536 - INFO - Se ha creado con ï¿½xito al heroe Homer Simpson Simpson.
+2025-09-29 17:45:01,885 - INFO - Se ha creado con ï¿½xito al villano Mickey Mouse Jones.
+2025-09-29 17:45:05,213 - INFO - Se ha creado con ï¿½xito al heroe Jerry Marshall.
+2025-09-29 17:45:06,123 - INFO - Se ha creado con ï¿½xito al villano Bart Simpson Black.
+2025-09-29 17:45:18,610 - INFO - Con Bart Simpson no hay nadie
+
+2025-09-29 17:46:43,629 - INFO - Se ha creado con éxito al heroe Scooby Doo Flintstone.
+2025-09-29 17:46:45,819 - INFO - Se ha creado con éxito al villano Mickey Mouse Marshall.
+2025-09-29 17:46:47,026 - INFO - Se ha creado con éxito al heroe Homer Simpson Flintstone.
+2025-09-29 17:46:48,328 - INFO - Se ha creado con éxito al villano Bugs Bunny Simpson.
+2025-09-29 17:46:52,040 - ERROR - Error: invalid literal for int() with base 10: 'nombre'
+2025-09-29 17:46:57,910 - INFO - Se ha creado con éxito al heroe Bart Simpson Simpson.
+2025-09-29 17:46:58,406 - INFO - Se ha creado con éxito al villano Bugs Bunny Black.
+2025-09-29 17:47:00,354 - INFO - Se ha creado con éxito al heroe Homer Simpson Flintstone.
+2025-09-29 17:47:01,502 - INFO - Se ha creado con éxito al villano Tweety Gray.
+2025-09-29 17:47:13,765 - INFO - Con Tweety no hay nadie
+2025-09-29 17:47:13,765 - INFO - Los personajes encontrados son: Villano(nombre=Tweety, apellidos=Gray, fecha_nacimiento=1903, puntuacionTotal=46, chagepeteador=46, entregadorTardio=27, ausencias=89, hablador=22)
